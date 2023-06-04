@@ -1,4 +1,5 @@
 /book-code
 .envrc
 *.pdf
-rust/target
+target
+__pycache__
